@@ -349,7 +349,6 @@ Gentoo:
         server_id: 1
         tmpdir: /tmp/
         innodb_buffer_pool_size: 16M
-        innodb_additional_mem_pool_size: 2M
         innodb_data_file_path: ibdata1:10M:autoextend:max:128M
         innodb_log_file_size: 5M
         innodb_log_buffer_size: 8M
